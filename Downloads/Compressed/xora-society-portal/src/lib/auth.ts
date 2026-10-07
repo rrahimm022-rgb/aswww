@@ -12,4 +12,8 @@ export const authOptions: NextAuthOptions = {
   pages: {
     signIn: "/",
   },
+<<<<<<< HEAD
 };
+=======
+};
+>>>>>>> b6d3f8b23b948cfaa32340e841475631795dd232
